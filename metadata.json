@@ -1,0 +1,6 @@
+{
+  "name": "SixtemakGis",
+  "description": "Un portal geográfico interactivo con selección de mapas base y soporte para archivos Shapefile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
